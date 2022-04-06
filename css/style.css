@@ -170,7 +170,8 @@ aside img{
     aside img{
         text-align: center;
         margin: 15px 40px;
-        max-width: 180px;
+        max-width: 170px;
+        width: 60%;
         border: 5px solid var(--mediumpurple);
         border-radius: 100%;
     
